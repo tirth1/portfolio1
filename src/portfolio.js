@@ -191,7 +191,7 @@ const workExperiences = {
     {
       role: "Programmer Analyst (Back-End Developer)",
       company: "Meditab",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/meditabLogo.jpeg"),
       date: "Dec 2021 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
@@ -286,6 +286,34 @@ const achievementSection = {
         {
           name: "View Google Assistant Action",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+
+    {
+      title: "PWA Web App Developer",
+      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/pwaLogo.webp"),
+      imageAlt: "PWA Logo",
+      footerLink: [
+        {name: "Certification", url: ""},
+        {
+          name: "Final Project",
+          url: "https://pakistan-olx-1.firebaseapp.com/"
+        }
+      ]
+    },
+
+    {
+      title: "PWA Web App Developer",
+      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/pwaLogo.webp"),
+      imageAlt: "PWA Logo",
+      footerLink: [
+        {name: "Certification", url: ""},
+        {
+          name: "Final Project",
+          url: "https://pakistan-olx-1.firebaseapp.com/"
         }
       ]
     },
